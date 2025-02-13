@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Visitor Count](https://profile-counter.glitch.me/RouhollahAmini/count.svg)
 <!--
 **RouhollahAmini/RouhollahAmini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
