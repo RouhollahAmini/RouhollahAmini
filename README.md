@@ -1,6 +1,7 @@
 ## Hi there 👋
+# 💫 About Me:
+- 🔭 I’m currently working on ...
 
-![Visitor Count](https://profile-counter.glitch.me/RouhollahAmini/count.svg)
 ![GitHub Views](https://komarev.com/ghpvc/?username=RouhollahAmini&color=FAC151)
 
 <!--
