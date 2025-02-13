@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on my projects.
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=RouhollahAmini&color=FAC151)
 
