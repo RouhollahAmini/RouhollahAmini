@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 ![Visitor Count](https://profile-counter.glitch.me/RouhollahAmini/count.svg)
+![GitHub Views](https://komarev.com/ghpvc/?username=RouhollahAmini&color=FAC151)
+
 <!--
 **RouhollahAmini/RouhollahAmini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
