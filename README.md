@@ -1,5 +1,4 @@
 ## Hi there 👋
-# 💫 About Me:
 - 🔭 I’m currently working on ...
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=RouhollahAmini&color=FAC151)
