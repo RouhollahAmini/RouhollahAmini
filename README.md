@@ -25,7 +25,6 @@ I'm a tech enthusiast who loves building things with code. Whether it's crafting
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="26" height="26"/>
 </p>
 
-## 📈 Profile Views
 ![GitHub Views](https://komarev.com/ghpvc/?username=RouhollahAmini&color=FAC151)
 
 ## 📫 How to Reach Me
