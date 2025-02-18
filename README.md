@@ -11,18 +11,18 @@ I'm a tech enthusiast who loves building things with code. Whether it's crafting
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="26" height="26"/>
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="26" height="26"/>
     <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="26" height="26"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original-wordmark.svg" alt="alpine.js" width="26" height="26"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" alt="alpine.js" width="26" height="26"/>
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react.js" width="26" height="26"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="26" height="26"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26" height="26"/>
     <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="26" height="26"/>
-    <img src="https://www.vectorlogo.zone/logos/django/django-icon.svg" alt="django" width="26" height="26"/>
+    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21~bgwhite.svg" alt="django" width="26" height="26"/>
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="26" height="26"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="26" height="26"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26" height="26"/>
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="26" height="26"/>
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="26" height="26"/>
-    <img src="https://www.vectorlogo.zone/logos/visualstudiocode/visualstudiocode-icon.svg" alt="vscode" width="26" height="26"/>
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="26" height="26"/>
 </p>
 
 ## 📈 Profile Views
