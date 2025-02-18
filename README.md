@@ -13,7 +13,7 @@ I'm a tech enthusiast who loves building things with code. Whether it's crafting
 
 ## 📫 How to Reach Me
 - Email: [amini.application@gmail.com](mailto:amini.application@gmail.com)  
-- Instagram: [instagram.com/Rohollah_Amini](https://www.instagram.com/Rouhollah_Amini)
+- Instagram: [instagram.com/Rouhollah_Amini](https://www.instagram.com/Rouhollah_Amini)
 
 <!--
 ## 🏆 Projects
@@ -23,9 +23,9 @@ Here are some of my recent projects:
 -->
 
 ## 🌐 Socials
-- GitHub: [github.com/RouhollahAmini](https://github.com/RouhollahAmini)  
-- LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername)  
-- Instagram: [instagram.com/yourusername](https://www.instagram.com/yourusername)  
+<!-- - LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername)  
+-->
+- Instagram: [instagram.com/Rouhollah_Amini](https://www.instagram.com/Rouhollah_Amini)  
 
 ## 🎯 Future Goals
 I'm currently exploring AI and machine learning, and I'm excited to contribute to open-source projects. If you have any collaboration ideas, feel free to reach out!  
@@ -35,4 +35,4 @@ I'm currently exploring AI and machine learning, and I'm excited to contribute t
 
 <h3 align="left">States:</h3>
 
-![AliBigdeli's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibigdeli&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![AliBigdeli's GitHub stats](https://github-readme-stats.vercel.app/api?username=RouhollahAmini&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
