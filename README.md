@@ -3,6 +3,8 @@
 ## 🌟 About Me
 I'm a tech enthusiast who loves building things with code. Whether it's crafting beautiful user interfaces or solving complex problems, I enjoy every step of the development process. I'm always eager to learn new technologies and improve my skills.
 
+![GitHub Views](https://komarev.com/ghpvc/?username=RouhollahAmini&color=FAC151)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="26" height="26"/>
@@ -25,7 +27,6 @@ I'm a tech enthusiast who loves building things with code. Whether it's crafting
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="26" height="26"/>
 </p>
 
-![GitHub Views](https://komarev.com/ghpvc/?username=RouhollahAmini&color=FAC151)
 
 ## 📫 How to Reach Me
 - Email: [amini.application@gmail.com](mailto:amini.application@gmail.com)
