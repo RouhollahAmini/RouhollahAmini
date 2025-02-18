@@ -22,7 +22,7 @@ I'm a tech enthusiast who loves building things with code. Whether it's crafting
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26" height="26"/>
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="26" height="26"/>
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="26" height="26"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="26" height="26"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="26" height="26"/>
 </p>
 
 ## 📈 Profile Views
