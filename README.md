@@ -27,17 +27,12 @@ I'm a tech enthusiast who loves building things with code. Whether it's crafting
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="26" height="26"/>
 </p>
 
+## 📑 Resume
+Download my resume here: [Resume.pdf](https://raw.githubusercontent.com/RouhollahAmini/Resume/refs/heads/main/resume.pdf)
 
 ## 📫 How to Reach Me
 - Email: [amini.application@gmail.com](mailto:amini.application@gmail.com)
 - Instagram: [instagram.com/Rouhollah_Amini](https://www.instagram.com/Rouhollah_Amini)
-
-<!--
-## 🏆 Projects
-Here are some of my recent projects:
-- **Project 1:** [Link to Project](https://github.com/yourusername/project1) - A short description of the project.  
-- **Project 2:** [Link to Project](https://github.com/yourusername/project2) - Another project description.  
--->
 
 ## 🌐 Socials
 <!-- - LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername)  
@@ -45,7 +40,24 @@ Here are some of my recent projects:
 - Instagram: [instagram.com/Rouhollah_Amini](https://www.instagram.com/Rouhollah_Amini)  
 
 ## 🎯 Future Goals
-I'm currently exploring AI and machine learning, and I'm excited to contribute to open-source projects. If you have any collaboration ideas, feel free to reach out!  
+I’m currently focused on mastering Python, Django, and Docker to build scalable web applications. In the near future, I plan to explore cross-platform app development using Flutter and Go. My ultimate goal is to grow as a developer by contributing to innovative projects and continuously learning new technologies.
+
+<!--
+## 📚 Certifications & Courses
+- **Python Programming:** Completed an advanced Python course on Udemy.
+- **Docker Fundamentals:** Certified by Docker official training.
+
+## 🏆 Projects
+Here are some of my recent projects:
+- **Personal Portfolio Website:** [GitHub Link](https://github.com/RouhollahAmini/Portfolio) - A responsive portfolio website built with HTML, CSS, and JavaScript.
+- **Django Blog App:** [GitHub Link](https://github.com/RouhollahAmini/Django-Blog) - A simple blog application using Django and PostgreSQL.
+-->
+
+## 🌱 Interests
+- Playing video games 🎮
+- Reading tech blogs and articles
+- Exploring programming world, AI and machine learning concepts
+- Playing futsal 🥅⚽🏃🏻‍♂️ 
 
 ---
 ✨ Thanks for visiting my profile! Feel free to connect with me on social media or drop me an email. I'm always open to new opportunities and collaborations!
