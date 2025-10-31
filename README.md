@@ -24,12 +24,11 @@ I'm a passionate full-stack developer who loves turning ideas into reality throu
 
 ## 💻 Tech Stack
 
-**🔧 Backend:** `Python` • `FastAPI` • `C#` • `Asp.Net Core`<br>
+**🔧 Backend:** `Python` • `FastAPI`<br>
 **🎨 Frontend:** `JavaScript` • `React.js` • `Next.js` • `Alpine.js` • `HTML5` • `CSS3` • `Tailwind CSS` • `Bootstrap` • `jQuery`<br>
 **🌐 WordPress & CMS:** `PHP` • `WordPress` • `Elementor` • `Custom Themes & Plugins`<br>
 **🗄️ Databases:** `MySQL` • `PostgreSQL`<br>
 **🚀 Tools & DevOps:** `Git` • `GitHub` • `Docker` • `VSCode`<br>
-**💡 Interests:** `UI/UX Design` • `Responsive Design` • `System Architecture` • `AI Concepts`<br>
 
 ---
 
